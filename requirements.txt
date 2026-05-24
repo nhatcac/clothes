@@ -1,6 +1,6 @@
-tensorflow-cpu
+streamlit
 opencv-python-headless
 numpy
 rembg
 pillow
-streamlit
+tensorflow-cpu
